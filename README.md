@@ -3,7 +3,7 @@
 ### About Me
 
 - I am currently in the 2nd semester of Computer Science at **UFPB**
-- Trainee at **TRIL Lab**
+- Developer at **TRIL Lab**
 - Interested in Artificial Intelligence and Machine Learning
 - Learning Python, C, Kotlin and Java so far!
 - Portuguese native speaker | Advanced English | Basic Spanish
