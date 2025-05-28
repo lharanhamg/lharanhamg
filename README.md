@@ -2,10 +2,10 @@
 
 ### About Me
 
-- I am currently in the 2nd semester of Computer Science at **UFPB**
-- Developer at **TRIL Lab**
-- Interested in Artificial Intelligence and Machine Learning
-- Learning Python, C, Kotlin and Java so far!
+- I am currently in the 3rd semester of Computer Science at **UFPB**
+- Researcher at **TRIL Lab**
+- Interested in Artificial Intelligence, Machine Learning and Computer Vision
+- Learning Python, C, Kotlin, Java and JavaScript/NodeJS so far!
 - Portuguese native speaker | Advanced English | Basic Spanish
 
 ### Connect with me
